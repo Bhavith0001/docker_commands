@@ -1,0 +1,2 @@
+1) docker run <image_id>  ---> Run an image in a container.
+2) docker run -d <image_id>  ---> Run an image in a container in detached mode.
