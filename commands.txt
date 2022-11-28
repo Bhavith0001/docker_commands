@@ -1,5 +1,8 @@
-1) docker run <image_id>  ---> Run an image in a new container.
-2) docker run -d <image_id>  ---> Run an image in a new container in detached mode.
-3) docker run <contaner_id>  ---> Run a container that is already exists and is currently not running.
-4) docker run -d <contaner_id>  ---> Run a  in detached mode that is already exists and is currently not running.
-5) docker run -p <host_port_id>:80 -p <host_port_id>:80 <image_id>  ---> Run an image in a cntainer and expose the container port to host pr external port.
+1) docker run <image_id or image_name>  ---> Run an image in a new container.
+2) docker run -d <image_id or image_name>  ---> Run an image in a new container in detached mode.
+3) docker run <contaner_id or container_name>  ---> Run a container that is already exists and is currently not running.
+4) docker run -d <contaner_id or container_name>  ---> Run a  in detached mode that is already exists and is currently not running.
+5) docker run -p <host_port_id>:80 -p <host_port_id>:80 <image_id or image_name>  ---> Run an image in a cntainer and expose the container port to host pr external port.
+6) docker rm $(docker ps -aq) ---> Remove all containers that are not running.
+7) docker rm -f $(docker ps -aq) ---> Force to remove all containers.
+8) docker tag <image_name:latest> <image_name:version_no>  ---> tagging mages with thier specific version_no
