@@ -5,4 +5,108 @@
 5) docker run -p <host_port_id>:80 -p <host_port_id>:80 <image_id or image_name>  ---> Run an image in a cntainer and expose the container port to host pr external port.
 6) docker rm $(docker ps -aq) ---> Remove all containers that are not running.
 7) docker rm -f $(docker ps -aq) ---> Force to remove all containers.
-8) docker tag <image_name:latest> <image_name:version_no>  ---> tagging mages with thier specific version_no
+8) docker tag <image_name:latest> <image_name:version_no>  ---> tagging mages with thier specific version_no\
+
+
+
+##################################################################################
+
+▶
+5:14
+Jhoom x Kesariya (ACV Mashup) | Brahmastra | Ranbir Kapoor, Alia Bhatt | Arijit Singh, Ali Zafar
+ACV
+
+3:45
+Dekha Ek Khwab x Laila (Full Version) - Sush & Yohan x @oyeeditorranna Mashup
+Sush & Yohan Music
+
+2:50
+Excuses x Love Nwantiti (Johnnie Ernest & JAZ Scape) • AP Dhillon • CKay
+JAZ Scape
+
+3:52
+Spirits x Jhoom (JAZ Scape Mashup) • Ali Zafar • The Strumbellas • Chill Vibes
+JAZ Scape
+
+3:12
+Deva Deva - Brahmāstra | Amitabh B | Ranbir Kapoor | Alia Bhatt | Pritam | Arijit | Amitabh | Jonita
+Sony Music India
+
+3:04
+Stay x Ranjha (JAZ Scape Mashup) • Bpraak • Justin Bieber • Jasleen Royal
+JAZ Scape
+
+3:41
+Nasha x Let The Music Play (@DJ Lemon & JAZ Scape) Mashup
+JAZ Scape
+
+3:18
+ILLAHI x NIGHT CHANGES (MEGA MASHUP) | Gravero & Happy Pills
+Gravero
+
+3:46
+Chaand Baaliyan x Jeet (Ritviz) • JAZ Scape Mashup • Aditya A.
+JAZ Scape
+
+3:12
+Ritviz - Liggi [Official Music Video]
+RITVIZ
+
+2:52
+Infinity x Kabhi Jo Badal Barse | Arijit Singh | Jaymes Young | @Sunix Thakor | Sagar Swarup |
+Sagar Swarup
+
+4:05
+Ritviz - Sage [Official Music Video]
+RITVIZ
+
+4:23
+Zara Zara x Let Me Down Slowly - JalRaj | Alec Benjamin | New Mashup 2022
+JalRaj
+
+2:51
+Arcade x O Re Piya (Full Audio) | ft. LOKI | Sagar Swarup
+Sagar Swarup
+
+4:18
+Industry Baby × Nagada Sang Dhol🔥 (Sush & Yohan Mashup)
+Sush & Yohan Music
+
+3:28
+Excuses X Attention (Mashup) | Adbhut Chapter 1 | AP Dhillon | Gurinder Gill | ROHAN
+ROHAN
+
+3:51
+Shershaah Mashup | DJ Chetas | DJ Lijo | Sidharth – Kiara | Tanishk, Jasleen, Javed-Mohsin, B Praak
+Sony Music India
+
+3:56
+Glass Animals - Heat Waves (Official Video)
+Glass Animals
+
+4:54
+Dildara x Love Me Like You Do (JAZ Scape Mashup)
+JAZ Scape
+4:37
+Coke Studio | Season 14 | Pasoori | Ali Sethi x Shae Gill
+Coke Studio
+
+4:33
+Jhoom x Kabira x Mere Bina (ACV Mashup) | Ali Zafar, Arijit Singh | Emraan Hashmi, Ranbir
+ACV
+
+3:45
+No Love x Zara Zara | SHUBH | Arjun Kanungo | Sagar Swarup
+Sagar Swarup
+
+6:30
+Tu Hi Haqeeqat( Perfectly Slowed )
+𝗧𝗛𝗘 𝗟𝗢𝗡𝗘𝗟𝗬 𝗦𝗤𝗨𝗔𝗥𝗘
+
+6:02
+Road Trip Mashup 2022 | Naresh Parmar | Ranbir Kapoor | Deepika Padukone | Night Drive Mashup
+Naresh Parmar
+
+5:29
+Teri Khair Mangdi X Bewafa[Lofi Mashup] | ROHAN | Bilal Saeed | @imrankhanworld | Chill Lofi 2021
+ROHAN
